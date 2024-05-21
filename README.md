@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Proftecbianchi/Proftecbianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Proftecbianchi/Proftecbianchi** Eu sou a professora Mary✨ da escola Roberto Bianchi✨ Leciono tecnologia, química e física 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou dando aula para o Ensino médio 
+- 🌱 Trabalho já 10 anos nessa escola
+- 👯 Sou casada com a Thais
+- 🤔 Tenho um filho
+- 💬 Amo minha cachorrinha Polly
+- 📫 Sou formada em química, bacharel e licenciada, formada também em pedagogia
+- 😄 Tenho vários cursos extras 
+- ⚡ Gosto da minha profissão e nas horas vagas trabalho em uma Adega 
+ - E-mail: marycatiele@prof.educacao.sp.gov.br
+ - Instagram: @
+- Sou professora do [Alura] (https://www.alura.com.br/)
+- Sou professora do [p5.js] (https://p5js.org/)
+- Sou professora do [Scratch] (https://scratch.mit.edu/)
